@@ -1,0 +1,9 @@
+.eds-banner-wrapper {
+    background-color: blue;
+    margin-top: 80px !important;
+    padding: 10px !important;
+}
+
+.eds-banner-wrapper img {
+    margin-top: 20px;
+}
